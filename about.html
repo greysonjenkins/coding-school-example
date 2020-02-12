@@ -3,32 +3,29 @@
   <head>
     <link rel="stylesheet" type="text/css" href="styles.css" />
     <style>
+      h2 {
+        text-align: center;
+        padding: 12px;
+        width: 90%;
+        float: none;
+        color: white;
+        font-family: sans-serif;
+      }
       .column {
         float: left;
         padding: 10px;
+        height: 300px;
       }
       .left {
-        width: 75%;
+        width: 30%;
       }
       .right {
-        width: 25%;
-        border-left-style: inset;
-      }
-      .row:after {
-        content: "";
-        display: table;
-        clear: both;
-      }
-      .right p {
-        padding: 20px;
+        width: 70%;
       }
     </style>
   </head>
   <body>
     <header>
-      <a href="/">
-        <img src="assets/logo.png" />
-      </a>
       <h1>The Coding School</h1>
     </header>
     <nav>
@@ -39,6 +36,18 @@
         <li><a href="contact.html">Contact</a></li>
       </ul>
     </nav>
-    <footer>Created by Greyson</footer>
+    <h2>
+      About Me
+    </h2>
+    <div class="about">
+      <div class="column right">
+        <h3>
+          Hello there!
+        </h3>
+        <p>
+          My name is Greyson. I'm in 13th grade and I like making websites. Try sending a message from the "Contact" page!
+        </p>
+      </div>
+    </div>
   </body>
 </html>
