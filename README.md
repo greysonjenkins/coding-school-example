@@ -1,6 +1,8 @@
 # coding-school-example
 
-This page is meant to serve as a very basic introduction into the fundamentals if HTML/CSS for students at The Coding School. Students chose the theme, content, colors, layout, and more, in addition to creating their own personal websites.
+This site served as a basic introduction to the fundamentals of HTML/CSS for students attending The Coding School at A.E. Wright  Middle School in Calabasas, CA, for their second semester (Winter 2020) of Intro to Web Development. It was a one-hour class held on Wednsesdays after school.
+
+Students chose the theme, content, colors, layout, and more, in addition to creating their own personal websites.
 
 The site can be viewed [here](https://the-coding-school.glitch.me).
 
